@@ -62,15 +62,15 @@
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
+     <th ><a </a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مديريت پروژه هاي نرم افزاري</a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+     <th ><a  </a></th>
+     <th ><a </a></th>
+     <th><a  </a></th>
+    <th><a </a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
