@@ -52,10 +52,3 @@
     <th></th>
     <th></th>
     <th ></th>
-    <th>سه شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
