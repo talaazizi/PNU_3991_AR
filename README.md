@@ -3,9 +3,9 @@
 ### طلا عزیزی
 
 ---
-- [حساب گیت هاب](https://github.com/talaazizi)
-- [آدرس رزومه](https://talaazizi.github.io/talaazizi/)
-- [SOP](https://talaazizi.github.io/SOP/)
+- [حساب گیت هاب] (https://github.com/talaazizi)
+- [آدرس رزومه] (https://talaazizi.github.io/talaazizi/)
+- [SOP] (https://talaazizi.github.io/SOP/)
 
 
 -------------------
