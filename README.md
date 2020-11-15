@@ -6,7 +6,7 @@
 - [حساب گیت هاب](https://github.com/talaazizi)
 - [آدرس رزومه](https://talaazizi.github.io/talaazizi/)
 - [SOP](https://talaazizi.github.io/SOP/)
-
+- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20273041/pdf/)
 -------------------
 
 
