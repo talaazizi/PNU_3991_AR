@@ -3,10 +3,11 @@
 ### طلا عزیزی
 
 ---
-- [حساب گیت هاب](https://github.com/talaazizi)
-- [آدرس رزومه](https://talaazizi.github.io/talaazizi/)
+- [PNU_3991_AR](https://github.com/talaazizi/PNU_3991_AR)
+- [Github](https://github.com/talaazizi)
+- [Resume](https://talaazizi.github.io/talaazizi/)
 - [SOP](https://talaazizi.github.io/SOP/)
-- [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20273041/pdf/)
+- [Certificate](https://www.sololearn.com/Certificate/1024-20273041/pdf/)
 -------------------
 
 
