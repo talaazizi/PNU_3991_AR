@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ----------
-### طلا عزیزی
+###  Soghra Azizi
 
 ---
 - [PNU_3991_AR](https://github.com/talaazizi/PNU_3991_AR)
