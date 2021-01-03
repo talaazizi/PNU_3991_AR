@@ -8,7 +8,7 @@
 - [Resume](https://talaazizi.github.io/talaazizi/)
 - [SOP](https://talaazizi.github.io/SOP/)
 - [Certificate](https://www.sololearn.com/Certificate/1024-20273041/pdf/)
-- [Certificate](java.jpg)
+
 -------------------
 
 
@@ -118,3 +118,5 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
+
+- [my Certificate](java.jpg)
