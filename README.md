@@ -1,5 +1,14 @@
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+
+
+<div dir="rtl">
+   
+----------   
+   
 # PNU_3991_AR
+
 ----------
+
 ###  Soghra Azizi
 
 ---
@@ -60,6 +69,8 @@
 [1115157_01 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 
 -----------------
+<div align="center">
+
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
