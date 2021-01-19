@@ -35,6 +35,8 @@
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/talaazizi/PNU_3991_AR/blob/main/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
+## برنامه  
+- [برنامه هفتگی](https://github.com/talaazizi/PNU_3991_AR/blob/main/3991_برنامه هفتگی.pdf)
 ------------------
 
 
