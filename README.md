@@ -20,7 +20,6 @@
 - [patchwork](https://github.com/talaazizi/patchwork)
 
 ------------------
-> ارزیابی ها
 
 ## پروژه
 - [سامانه خرید بلیط ورزشگاه آزادی](https://github.com/talaazizi/PNU_3991_AR/blob/main/Project.pdf)
@@ -29,11 +28,11 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/talaazizi/PNU_3991_AR/blob/main/SA_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/SA_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/talaazizi/PNU_3991_AR/blob/main/ارزیابی ها/SA_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/ارزیابی ها/SA_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/talaazizi/PNU_3991_AR/blob/main/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/talaazizi/PNU_3991_AR/blob/main/ارزیابی ها/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ## برنامه  
 - [برنامه هفتگی](https://github.com/talaazizi/PNU_3991_AR/blob/main/3991_برنامه هفتگی.pdf)
