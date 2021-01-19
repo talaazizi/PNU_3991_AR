@@ -151,4 +151,4 @@
 
 <div dir="rtl">
    
-- [Weekly Schedule](3991_Weekly Schedule.pdf)
+- [Weekly Schedule](3991_برنامه هفتگی.pdf)
