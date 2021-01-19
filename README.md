@@ -19,8 +19,29 @@
 - [Certificate](https://www.sololearn.com/Certificate/1024-20273041/pdf/)
 - [patchwork](https://github.com/talaazizi/patchwork)
 
--------------------
+------------------
+> ارزیابی ها
 
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_سمینار]()
+
+------------------
+
+
+## Winter Semester Courses 1399/2020
+
+## دروس کارشناسی
+
+[1115157_01 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
+
+-----------------
 
 ## گروه ها
 
@@ -61,14 +82,6 @@
    
 -----------------
 
-
-## Winter Semester Courses 1399/2020
-
-## دروس کارشناسی
-
-[1115157_01 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
-
------------------
 <div align="center">
 
 ## روز و ساعت ارائه دروس
