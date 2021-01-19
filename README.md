@@ -148,7 +148,6 @@
 </table>
 
 ----------
-
 <div dir="rtl">
    
 - [Weekly Schedule](3991_برنامه هفتگی.pdf)
