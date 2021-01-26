@@ -32,7 +32,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/SA_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/Languages-and-Machines/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/talaazizi/PNU_3991_AR/blob/main/_General/SA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 ------------------
 
